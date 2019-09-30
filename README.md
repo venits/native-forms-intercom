@@ -13,14 +13,16 @@ We created NativeForms to help you communicate with your clients. Our product of
 
 ## Installation
 
-1. Install our integration from App Store.
+### [🎥 Youtube step-by-step tutorial 🎥](https://youtu.be/9k1GUNUS7DA)
+
+### 1. Install our integration from App Store.
 [Link to integration](https://app.intercom.com/a/apps/ay8q7l75/appstore?app_package_code=native-forms)
-2. Go to your Messenger settings and add NativeForms.
+### 2. Go to your Messenger settings and add NativeForms.
  ![https://raw.githubusercontent.com/venits/native-forms-intercom/master/assets/step1.png](https://raw.githubusercontent.com/venits/native-forms-intercom/master/assets/step1.png)
-3. Get your [Form's URL]([https://app.nativeforms.com/intercom](https://app.nativeforms.com/intercom)) and paste it.
+### 3. Get your [Form's URL]([https://app.nativeforms.com/intercom](https://app.nativeforms.com/intercom)) and paste it.
 ![https://raw.githubusercontent.com/venits/native-forms-intercom/master/assets/step2.png](https://raw.githubusercontent.com/venits/native-forms-intercom/master/assets/step2.png)
-4. Complete configuration and save.
-5. That's all :) Your form will appear in Messenger.
+### 4. Complete configuration and save.
+### 5. That's all :) Your form will appear in Messenger.
 ![https://raw.githubusercontent.com/venits/native-forms-intercom/master/assets/step3.png](https://raw.githubusercontent.com/venits/native-forms-intercom/master/assets/step3.png)
 
 ## Demo
